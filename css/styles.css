@@ -1,0 +1,41 @@
+
+.city {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.nameofclass {
+    margin: 20px;
+}
+
+#header_external_stylE {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+body {
+  margin: 0px;
+}
+
+td, th {
+  padding: 5px;
+  text-align: left;
+  border-bottom: 1px solid #187DB6;
+} 
+
+.header {
+  height: 10vh;
+  background-color: #187DB6;
+  /* background-image: url('../images/image-3.jpeg');
+  background-repeat: no-repeat; */
+}
